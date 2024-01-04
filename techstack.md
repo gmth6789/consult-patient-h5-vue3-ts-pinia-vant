@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 gmth6789/consult-patient-h5-vue3-ts-pinia-vant is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Socket.IO](http://socket.io/) – Realtime Backend / API
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -13,11 +14,13 @@ gmth6789/consult-patient-h5-vue3-ts-pinia-vant is built on the following main st
 - [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 gmth6789/consult-patient-h5-vue3-ts-pinia-vant is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -29,14 +32,15 @@ gmth6789/consult-patient-h5-vue3-ts-pinia-vant is built on the following main st
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/consult-patient-h5-vue3-ts-pinia-vant](https://github.com/gmth6789/consult-patient-h5-vue3-ts-pinia-vant)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/09/23 <br/>Report generated|
+|28<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -170,9 +174,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (13)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -181,7 +185,9 @@ Full tech stack [here](/techstack.md)
 |[@vue/eslint-config-typescript](https://www.npmjs.com/@vue/eslint-config-typescript)|v11.0.0|03/28/23|zhousg |MIT|N/A|
 |[dayjs](https://www.npmjs.com/dayjs)|v1.11.7|03/10/23|zhousg |MIT|N/A|
 |[eslint-plugin-vue](https://www.npmjs.com/eslint-plugin-vue)|v9.3.0|03/28/23|zhousg |MIT|N/A|
-|[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|03/28/23|zhousg |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.0|11/23/22|zhousg |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|11/29/22|zhousg |MIT|N/A|
+|[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|03/28/23|zhousg |MIT|[CVE-2023-26158](https://github.com/advisories/GHSA-mh8j-9jvh-gjf6) (High)|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|11/23/22|zhousg |MIT|N/A|
 |[nprogress](https://www.npmjs.com/nprogress)|v0.2.0|12/28/22|zhousg |MIT|N/A|
 |[sass](https://www.npmjs.com/sass)|v1.56.1|11/24/22|zhousg |MIT|N/A|
@@ -193,4 +199,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
