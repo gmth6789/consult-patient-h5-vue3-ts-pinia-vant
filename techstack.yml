@@ -2,7 +2,7 @@ repo_name: gmth6789/consult-patient-h5-vue3-ts-pinia-vant
 report_id: a5d05241a02bf3e09acfc07570cd7afb
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:21:09+00:00'
+timestamp: '2024-02-29T18:07:49+00:00'
 requested_by: zhousg
 provider: github
 branch: main
@@ -93,7 +93,7 @@ tools:
   detection_source_url: https://github.com/gmth6789/consult-patient-h5-vue3-ts-pinia-vant
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
